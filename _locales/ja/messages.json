@@ -647,6 +647,9 @@
   "hdThumbnail": {
     "message": "HDサムネイル"
   },
+  "hdrBadge": {
+    "message": "動画タイトルの横にHDRバッジを表示する"
+  },
   "header": {
     "message": "ヘッダー"
   },
@@ -709,6 +712,9 @@
   },
   "hideEndscreen": {
     "message": "エンドスクリーンを非表示"
+  },
+  "hideLastframe": {
+    "message": "動画を非表示にする（最終フレーム）"
   },
   "hideFeaturedContent": {
     "message": "特集コンテンツを非表示"
@@ -1258,6 +1264,9 @@
   },
   "showRemainingDuration": {
     "message": "動画の残り時間を表示"
+  },
+  "showWatchedSectionsOnSeekBar": {
+    "message": "シークバーに視聴済みのセクションを表示する"
   },
   "showVersion": {
     "message": "バージョン情報を表示"
